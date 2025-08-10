@@ -38,17 +38,6 @@ State Management – Tracks piece positions, captured pieces, turn order, and sp
 Special Moves – Supports castling, en passant, pawn promotion, and double pawn moves.
 
 
-## 🎯 Possible Future Enhancements
-AI difficulty levels for beginners, intermediate, and advanced players.
-
-Move history with undo/redo options.
-
-Online multiplayer functionality.
-
-Timer-based competitive matches.
-
-Sound effects for moves and captures.
-
 ## 💡 Why I Built This
 This project was created to combine game design, artificial intelligence, and front-end development into one engaging experience. It’s a hands-on exploration of AI move calculation and real-time game rendering in the browser.
 
