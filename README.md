@@ -37,16 +37,6 @@ State Management – Tracks piece positions, captured pieces, turn order, and sp
 
 Special Moves – Supports castling, en passant, pawn promotion, and double pawn moves.
 
-🚀 How to Play
-Clone this repository:
-
-bash
-Copy
-Edit
-git clone https://github.com/Shaankari98/ai-chess-game.git
-Open chess.html in any modern web browser.
-
-Play as White or Black, or let the AI face itself in Auto Mode.
 
 ## 🎯 Possible Future Enhancements
 AI difficulty levels for beginners, intermediate, and advanced players.
